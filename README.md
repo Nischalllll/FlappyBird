@@ -38,4 +38,4 @@ You can see a live demo of the game [here](https://example.com/flappy-bihttps://
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
