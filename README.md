@@ -22,7 +22,7 @@ To play the game, simply open the `index.html` file in a web browser that suppor
 
 ## Demo
 
-You can see a live demo of the game [here](https://example.com/flappy-bihttps://codepen.io/Nischal-Comstock/full/poxgGXOrd-game).
+You can see a live demo of the game [here](https://codepen.io/Nischal-Comstock/full/poxgGXO).
 
 ## Built With
 
